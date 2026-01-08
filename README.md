@@ -1,6 +1,5 @@
 # CAT201_Assignment_2
-A repository for CAT201 Assignment 2, Introduction to our company static (or dynamic) webpage.  
-This repository will be used as a git control to keep track of each commit and update.
+A repository for CAT201 qill be use as TEMPORARY PLACEHOLDER for full redesign of original repository
 
 ## Kaki Gamerz Website Link
 https://kakigamerz.vercel.app
