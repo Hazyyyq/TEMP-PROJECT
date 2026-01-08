@@ -1,0 +1,21 @@
+{
+  "name": "cat201_assignment2",
+  "version": "1.0.0",
+  "description": "A repository for CAT201 Assignment 2, Introduction to our company static ( or Dynamic ) webpage. This repository will be use as a git control to keep track of each commit and update",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hazyyyq/CAT201_Assignment2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hazyyyq/CAT201_Assignment2/issues"
+  },
+  "homepage": "https://github.com/Hazyyyq/CAT201_Assignment2#readme"
+}
